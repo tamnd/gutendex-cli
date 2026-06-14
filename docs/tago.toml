@@ -1,0 +1,10 @@
+title       = "gutendex"
+baseURL     = "https://gutendex-cli.tamnd.com/"
+description = "A command line for gutendex."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/gutendex-cli"
